@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:testes/providerteste.dart';
+import 'package:testes/abcprov/providerteste.dart';
 
 class Recebedor extends StatelessWidget {
   const Recebedor({super.key});
